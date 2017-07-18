@@ -1,0 +1,9 @@
+{
+  "presets": ["env", "react", "es2015"],
+  "ignore": [],
+  "env": {
+    "production": {
+      "plugins": []
+    }
+  }
+}
